@@ -6,6 +6,7 @@
 #include "memory.h"
 #include <iostream>
 #include <iomanip>
+
 using namespace std;
 // Note: GCC and MSVC uses different memory alignment
 // Try "12345678DevilEvecosia" as a password for gcc build
